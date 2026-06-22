@@ -1,0 +1,325 @@
+{
+  "business": {
+    "name": "RidgeForce Max Garage Door's Repair",
+    "shortName": "RidgeForce Max",
+    "tagline": "Precision Garage Door Service You Can Trust",
+    "niche": "Garage Door Repair",
+    "phone": "(214) 833-8255",
+    "address": "2929 Park Row Ave, Dallas, TX 75215",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sun: 7am - 9pm",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Garage Door Repair Dallas TX | RidgeForce Max - Same-Day Service",
+    "description": "Top-rated garage door repair in Dallas, TX. Expert repairs, openers, springs, and installation. Fast same-day service. Call (214) 833-8255."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Garage Door Experts",
+      "headline": "Fast, Reliable Garage Door Repair in Dallas",
+      "subheadline": "From broken springs to full replacements, we deliver quality workmanship and transparent pricing — same-day service available.",
+      "primaryCta": "Schedule Repair",
+      "secondaryCta": "Get a Free Quote"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Repairs Completed"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "99%",
+        "label": "Satisfaction Rate"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Same-Day Service",
+        "title": "Emergency Garage Door Repair When You Need It",
+        "body": "A broken garage door can disrupt your day. Our team responds quickly to get your door back on track — often within hours. No overtime charges, just honest work.",
+        "bullets": [
+          "24/7 emergency service available",
+          "Fully stocked trucks for same-day fixes",
+          "Transparent pricing with no hidden fees"
+        ],
+        "reverse": false,
+        "cardLabel": "Fast Response",
+        "cardTitle": "On Your Schedule",
+        "cardBody": "We work around your timeline, including evenings and weekends, so you're never left waiting."
+      },
+      {
+        "eyebrow": "Quality Parts",
+        "title": "Premium Garage Door Openers & Springs",
+        "body": "We use only top-tier brands like LiftMaster and Genie for openers, and high-cycle springs for longevity. Our work comes with a warranty for your peace of mind.",
+        "bullets": [
+          "LiftMaster, Genie, and Chamberlain openers",
+          "Heavy-duty torsion springs",
+          "Warranty on parts and labor"
+        ],
+        "reverse": true,
+        "cardLabel": "Durable Solutions",
+        "cardTitle": "Built to Last",
+        "cardBody": "We don't cut corners — every repair is done with materials that stand up to Dallas weather."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose RidgeForce Max",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured for your protection. You're covered from the moment we arrive."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No surprise charges. We provide upfront estimates before any work begins."
+      },
+      {
+        "title": "Experienced Technicians",
+        "description": "Our team has over 15 years of combined experience in garage door repair and installation."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind our work. If you're not happy, we'll make it right."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They fixed my garage door opener in under an hour. Professional and fair price. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "Called on a Sunday morning and they were here by noon. New springs installed quickly. Great service.",
+        "author": "Linda T.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "RidgeForce Max replaced our old wooden door with a beautiful steel one. The team was courteous and efficient.",
+        "author": "David M.",
+        "role": "Highland Park homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for a Garage Door That Works Perfectly?",
+      "subheadline": "Call us now for fast, friendly service from Dallas's garage door pros.",
+      "primaryCta": "Call (214) 833-8255",
+      "secondaryCta": "Request Online Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "From emergency repairs to full installations, RidgeForce Max Garage Door's Repair offers comprehensive garage door services in Dallas, TX. Our skilled technicians handle every make and model with precision and care."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Garage Door Spring Repair",
+      "shortDescription": "Expert torsion and extension spring replacement for smooth, safe operation.",
+      "longDescription": "Broken springs are the most common garage door issue. Our technicians replace both torsion and extension springs using high-cycle, oil-tempered steel springs that last longer and operate quieter. We ensure proper tension adjustment for balanced lifting.",
+      "benefits": [
+        "Restores smooth door operation",
+        "Prevents further damage to opener",
+        "Increases safety with correct tension"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We assess spring type, size, and condition, checking for wear or damage."
+        },
+        {
+          "title": "Replacement",
+          "description": "Using precision tools, we safely remove old springs and install new high-quality ones."
+        },
+        {
+          "title": "Testing",
+          "description": "We test balance and tension multiple times to ensure safe, quiet operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should garage door springs be replaced?",
+          "answer": "Typically every 7-10 years depending on usage. Signs include difficulty opening or loud noises."
+        },
+        {
+          "question": "Is it dangerous to replace springs myself?",
+          "answer": "Yes, springs are under high tension and can cause serious injury. Always hire a professional."
+        }
+      ],
+      "slug": "garage-door-spring-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Garage Door Opener Repair & Replacement",
+      "shortDescription": "Fix or upgrade your opener for reliable, quiet, and smart operation.",
+      "longDescription": "We service all major opener brands including LiftMaster, Chamberlain, Genie, and Craftsman. Whether you need a simple repair, a belt drive upgrade, or a smart opener with Wi-Fi, we provide expert installation and programming.",
+      "benefits": [
+        "Eliminates noisy operation",
+        "Adds modern features like smartphone control",
+        "Ensures safety sensors work properly"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We test power, sensors, remote, and motor to pinpoint the issue."
+        },
+        {
+          "title": "Repair or Upgrade",
+          "description": "We fix or replace with a compatible, high-performance opener."
+        },
+        {
+          "title": "Programming & Safety Check",
+          "description": "We program remotes, keypads, and test auto-reverse safety features."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's the best garage door opener for a quiet home?",
+          "answer": "Belt drive openers are the quietest option. We recommend LiftMaster 87504 for whisper-soft operation."
+        },
+        {
+          "question": "Can I connect my opener to my phone?",
+          "answer": "Yes, many modern openers have Wi-Fi capability. We can set up app control for you."
+        }
+      ],
+      "slug": "garage-door-opener-repair-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "Garage Door Panel Replacement",
+      "shortDescription": "Replace damaged panels to restore curb appeal and insulation.",
+      "longDescription": "Accidents happen — from backing into the door to storm damage. We source color-matched panels for all major door brands and install them seamlessly. Single or multiple panel replacement is quick and cost-effective.",
+      "benefits": [
+        "Restores door appearance and function",
+        "Improves insulation and energy efficiency",
+        "Cost-effective alternative to full door replacement"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We measure and order exact-match panels from the manufacturer."
+        },
+        {
+          "title": "Removal",
+          "description": "We carefully remove damaged panels without disturbing the rest of the door."
+        },
+        {
+          "title": "Installation",
+          "description": "New panels are fitted, aligned, and secured. We test operation and seal gaps."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match the color of my existing door?",
+          "answer": "Yes, we order factory-painted panels to match your door's exact color and style."
+        },
+        {
+          "question": "Is panel replacement cheaper than a new door?",
+          "answer": "Often yes, especially if only one or two panels are damaged. We'll provide a free estimate."
+        }
+      ],
+      "slug": "garage-door-panel-replacement"
+    },
+    {
+      "icon": "04",
+      "title": "Garage Door Installation",
+      "shortDescription": "Professional installation of new garage doors for style and security.",
+      "longDescription": "Upgrade your home with a new garage door from top brands like Clopay, Amarr, and Wayne Dalton. We handle everything from removal of your old door to precise installation, including tracks, springs, openers, and weatherstripping. Choose from steel, wood, or composite designs.",
+      "benefits": [
+        "Enhances home curb appeal and value",
+        "Improves insulation and security",
+        "Includes warranty on door and installation"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We help you choose the perfect door style, material, and insulation level."
+        },
+        {
+          "title": "Removal & Prep",
+          "description": "We remove your old door and hardware, ensuring the opening is ready."
+        },
+        {
+          "title": "Installation",
+          "description": "We install the new door, tracks, springs, and opener, then test for smooth operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a full installation take?",
+          "answer": "Typically 4-6 hours for a standard single or double door."
+        },
+        {
+          "question": "What insulation level should I choose?",
+          "answer": "For attached garages, R-value 12-16 is recommended. For detached, R-value 6-8 is sufficient."
+        }
+      ],
+      "slug": "garage-door-installation"
+    }
+  ],
+  "about": {
+    "headline": "Your Local Garage Door Experts in Dallas",
+    "mission": "To provide Dallas homeowners and businesses with prompt, professional, and affordable garage door services backed by integrity and craftsmanship.",
+    "story": [
+      "RidgeForce Max Garage Door's Repair was founded on the belief that garage door service should be straightforward and reliable. Our founder, a Dallas native with years of experience in the industry, saw too many customers overcharged for subpar work. He built a company focused on honest communication, fair pricing, and skilled workmanship — values that still drive us today.",
+      "Since opening our doors, we've grown from a one-truck operation to a trusted team serving all of Dallas and surrounding areas. Every technician is trained to handle any brand or issue, from simple adjustments to complex installations. We treat every home like our own, ensuring your garage door operates safely and looks great."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Satisfied Customers"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We never recommend unnecessary repairs. Our quotes are honest and upfront."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium parts and back our work with a warranty you can count on."
+      },
+      {
+        "title": "Speed",
+        "description": "We value your time. Same-day service is our standard, not an exception."
+      },
+      {
+        "title": "Community",
+        "description": "As a local business, we take pride in serving our neighbors and supporting Dallas."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Estimate Today",
+    "subheadline": "Call or fill out our form for a fast, no-obligation quote.",
+    "primaryCta": "Call (214) 833-8255",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Preston Hollow",
+      "Park Cities",
+      "Irving",
+      "Garland"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Garage Door Repair",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148338255",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
